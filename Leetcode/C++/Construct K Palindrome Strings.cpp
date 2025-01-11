@@ -26,7 +26,6 @@ int main() {
     
     Solution test;
     
-    string s = "011101";
     cout << test.canConstruct("true", 4) <<"\n";
     
     
